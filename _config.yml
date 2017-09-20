@@ -1,6 +1,6 @@
 # Site settings
-title: "Learning Locker Documentation"
-email: "hello@learninglocker.net"
+title: "Learning Locker V1 Documentation"
+email: "hello@ht2labs.com"
 description: "Documentation for Learning Locker, the open source learning record store."
 source: "./src"
 destination: "./out"
